@@ -1,0 +1,17 @@
+.card-borda {
+    width: 20rem;
+    border: 1px #00987B solid !important;
+    align-content: center;
+    margin: 0 auto;
+}
+
+.card-titulo {
+    
+    background: #00987B;
+    color: #ffffff  !important;
+    text-align: center;
+}
+
+.container {
+    padding: 4px 16px;
+}

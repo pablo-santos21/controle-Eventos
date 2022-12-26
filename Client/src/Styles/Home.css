@@ -1,0 +1,66 @@
+.options {
+    justify-content: end;
+}
+
+.style-table{
+    margin: auto;
+    font-size: 1em !important;
+    font-family: sans-serif !important;
+    max-width: 800px !important;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.style-table thead tr {
+    background-color: #00987B;
+    color: #ffffff;
+    text-align: left;
+}
+
+.style-table th, .style-table td{
+    padding: 12px 6px !important;
+}
+
+.style-table tbody tr{
+    border-bottom: 2px solid #00987B;
+}
+
+.style-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3 ;
+}
+
+.style-table tbody tr:last-of-type(even) {
+    background-color: #009879;
+}
+
+
+
+.botao{
+    border: none !important;
+    color: #ffffff !important;
+    padding: 5px 8px !important;
+    text-align: center !important;
+    text-decoration: none !important;
+    display: inline-block !important;
+    border-radius: 5px !important;
+    font-size: 16px !important;
+    margin: 4px 2px !important;
+    cursor: pointer !important;
+}
+
+.botao-edit {
+    background-color: #0098F2 !important;
+}
+
+.botao-delete{
+    background-color: #f44336 !important;
+}
+
+.botao-view{
+    background-color: #e7e7e7 !important;
+    color: #000000 !important;
+}
+
+.botao-evento{
+    background-color: #e82764;
+    margin-bottom: 10px;
+}
