@@ -94,7 +94,7 @@ const Home = () => {
                 >
                   Data
                 </th>
-                <th style={{ textAlign: 'center' }}>Evento</th>
+                <th style={{ textAlign: 'center' }}>Eventos</th>
                 <th style={{ textAlign: 'center' }}>Convidados</th>
                 <th style={{ textAlign: 'center' }}>Ações</th>
               </tr>
